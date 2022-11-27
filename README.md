@@ -1,7 +1,7 @@
-extjs-docs
+ExtJS API documentation archive
 ==========
 
-Old ExtJS documentation, hosted here for convenience because Sencha doesn't host them anymore.
+Old ExtJS API documentation, hosted here for convenience because Sencha doesn't host them anymore.
 
 http://galgeri.github.io/extjs-docs-archive/
 
