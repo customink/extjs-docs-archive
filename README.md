@@ -17,7 +17,7 @@ git clone https://github.com/galgeri/extjs-docs-archive.git
 Since the Ext docs webapp uses ajax, you also need to run a simple web server to use it. For example,
 
 ```
-python -m SimpleHTTPServer 3000
+python -m http.server
 ```
 
-Then you should be able to go to `http://localhost:3000` and view it.
+Then you should be able to go to `http://localhost:8000` and view it.
